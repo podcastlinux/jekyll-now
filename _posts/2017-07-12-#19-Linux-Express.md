@@ -20,7 +20,7 @@ Repasamos lo acontecido y el verano refrescante que nos espera:
 
 + [Episodio Aniversario](http://avpodcast.net/podcastlinux/aniversario) y [Linux Connexion con Alejandro López 2](http://avpodcast.net/podcastlinux/one)
 + [Akademy y AkademyES](https://www.kde-espana.org/publicado-el-programa-de-charlas-de-akademy-es-2017)
-+ Próximo episodios y organización en verano
++ Próximos episodios y organización en verano
 + Charla Educación y software Libre en la [Tenerife Lan Party](https://osl.ull.es/eventos/colabora-en-tlp-tenerife-2017-con-la-ull/)
 + [Maratón Linuxero](https://maratonlinuxero.github.io/)
 
