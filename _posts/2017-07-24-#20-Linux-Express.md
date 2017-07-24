@@ -10,7 +10,7 @@ comments: true
 ---
 
 No cerramos en verano. Semanalmente alternamos el podcast normal con este Linux Express.
-![#20](https://podcastlinux.github.io/images/18LinuxExpress.png)
+![#20](https://podcastlinux.github.io/images/20LinuxExpress.png)
 
 <audio controls>
   <source src="https://github.com/podcastlinux/podcastlinux.github.io/raw/master/Linux-Express/%2320%20Podcast%20Linux%20Express.mp3" type="audio/mpeg">
