@@ -19,7 +19,7 @@ Seguimos activos en verano. Semanalmente alternamos el podcast normal con este L
 Repasamos lo acontecido en estas últimas semanas del mes de julio:
 
 + [Episodio #31 Especial TLP2017](https://avpodcast.net/podcastlinux/tlp2017/)
-+ Próximo episodio Linux Connexion con [ReciclaNet](https://www.reciclanet.org/)
++ Próximo episodio Linux Connexion con [ReciclaNet](http://www.reciclanet.org/)
 + Sigo disfrutando de [Ardour](https://ardour.org/) con mi nueva interfaz de audio [Behringer UMC202HD](https://www.music-group.com/Categories/Behringer/Computer-Audio/Audio-Interfaces/UMC202HD/p/P0BJZ)
 + Apúntate al [Maratón Linuxero](https://t.me/maratonlinuxero)
 
