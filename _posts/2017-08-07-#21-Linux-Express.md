@@ -16,7 +16,7 @@ Seguimos activos en verano. Semanalmente alternamos el podcast normal con este L
   <source src="https://github.com/podcastlinux/podcastlinux.github.io/raw/master/Linux-Express/%2321%20Podcast%20Linux%20Express.mp3" type="audio/mpeg">
 </audio>
 
-Repasamos lo acontecido en estas últimas semanas del mes de julio:
+Repasamos lo acontecido en esta primera semana del mes de agosto:
 
 + [Episodio #31 Especial TLP2017](https://avpodcast.net/podcastlinux/tlp2017/)
 + Próximo episodio Linux Connexion con [ReciclaNet](http://www.reciclanet.org/)
