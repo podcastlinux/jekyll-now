@@ -16,7 +16,7 @@ Nos mudamos a Gitlab y si estás escuchando este audio, es que tienes un feed qu
 </audio>
 
 Después de conocer más a fondo la plataforma Gitlab, me apetece pasarme a ésta y entre otras cosas, Github se quedará congelada.
-Más abajo tienes el feed de FeedBurner, pero si no quieres utilizarlo, puede hacer uso del propio que genera el blog: </https://podcastlinux.gitlab.io/Linux-Express/feed.xml>
+Más abajo tienes el feed de FeedBurner, pero si no quieres utilizarlo, puede hacer uso del propio que genera el blog: <https://podcastlinux.gitlab.io/Linux-Express/feed.xml>
 
 Recuerda que puedes **contactar** conmigo de las siguientes formas: 
 
